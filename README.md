@@ -11,7 +11,7 @@ python.exe ntlkpunktdownload.py
 ```
 Then you have to download and extract the [Imdb dataset](http://ai.stanford.edu/~amaas/data/sentiment/) and extract in into a folder named Imdb in the root folder.
 
-If the folder does not exist, creat it.
+If the folder does not exist, create it.
 
 Lastly run the main.py file
 ```
