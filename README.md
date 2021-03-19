@@ -17,3 +17,4 @@ Lastly run the main.py file
 ```
 python.exe main.py
 ```
+https://youtu.be/mOJ7j3PzIvg
